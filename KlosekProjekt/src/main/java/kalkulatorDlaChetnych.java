@@ -57,7 +57,7 @@ public class kalkulatorDlaChetnych {
     }
 
     public static void obliczWahadloMatematyczne(Scanner input) {
-        System.out.println("\n--- Czas na matematyczne machanie ---");
+        System.out.println("\n--- Czas na matematyczne machanie --");
         System.out.print("Podaj długość (l) w metrach: ");
         double dlugoscWahadla = input.nextDouble();
         System.out.print("No i przyspieszenie ziemskie (g) w m/s^2 (dla Ziemi to około 9.81): ");
